@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnotherApp</string>
+    <string name="MS">MainScreen</string>
+    <string name="TS">TextScreen</string>
+</resources>
